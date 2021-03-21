@@ -5,7 +5,7 @@ public class For_Startop {
 		int row_Star;
 		int line;
 		
-		// 별탑을 거꾸로
+		// Startop reverse 
 		
 		for (row_Star=5; row_Star>=0; row_Star--)
 		{

@@ -5,7 +5,7 @@ public class While_Startop {
 		int row_Star = 5;
 		int line = 0;
 		
-		//별탑 거꾸로
+		//  Startop reverse
 		
 		while(true) {
 			if(row_Star == 0) break;
